@@ -1,9 +1,10 @@
 # ILElectionData
 
-This repo contains social media posts and comments collected from leading Israeli politicans during 3 consequtive election periods in 2019-2020. The repository contains over 5M comments.
+This repository includes social media posts and comments from prominent Israeli politicians during the three consecutive election cycles held in Israel between 2019-2020. The dataset contains over 5 million comments total. 
 
-If you want to use the dataset please use the following reference:
+The data is structured into two main directories - one for posts and one for comments. Within each directory, CSV files store the data with each row representing a single post or comment. The columns in the CSVs contain attributes about each post/comment such as content, author, date, etc.
 
+If you utilize this dataset in your research, please cite it as follows:
 J. Schler, E. Bonchek-Dokow, T. Vainstein, M. Gotam and M. Teplitsky, "Profiling Astroturfing Facebook Users During Three Contiguous Israeli Election Periods," 2020 IEEE International Conference on Big Data (Big Data), Atlanta, GA, USA, 2020, pp. 4331-4340, doi: 10.1109/BigData50022.2020.9378207.
 
 
